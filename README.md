@@ -52,7 +52,7 @@ To run the demo follow these steps:
 5. npx hardhat run scripts/deploy.js --network localhost
 6. npx hardhat node
 
-<br/>
+
 ## Add the local network at matamask wallet
 ![Project Display](https://github.com/chowais181/Nft-Minting-Dapp/blob/main/network.png)
 
