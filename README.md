@@ -7,6 +7,8 @@ This example shows How To Build A Classic Web3 NFT Minting Dapp with React and S
 ![Adulam NFT Project](./screenshots/Adulam.gif)
 <center><figcaption>Adulam NFT Project</figcaption></center>
 
+## View : https://6368f808d1d4d52814059719--effervescent-palmier-3b54db.netlify.app/
+
 ## Technology
 
 This demo uses:
