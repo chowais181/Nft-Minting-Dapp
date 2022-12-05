@@ -50,7 +50,7 @@ To run the demo follow these steps:
 1. npm install
 2. npm start(frontend started)
 3. open another terminal write : npx hardhat node
-4. npx hardhat compile
+4. open another terminal: npx hardhat compile
 5. open another terminal: npx hardhat run scripts/deploy.js --network localhost
 
 
