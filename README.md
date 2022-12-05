@@ -51,8 +51,8 @@ To run the demo follow these steps:
 2. npm start(frontend started)
 3. open another terminal write : npx hardhat node
 4. npx hardhat compile
-5. npx hardhat run scripts/deploy.js --network localhost
-6. npx hardhat node
+5. open another terminal: npx hardhat run scripts/deploy.js --network localhost
+
 
 
 ## Add the local network at matamask wallet
